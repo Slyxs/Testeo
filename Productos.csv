@@ -1,0 +1,81 @@
+ID,Nombre,Marca,Categoria,Precio unitario,Stock,Descripcion
+1,Arroz Extra Costeño,Costeño,Alimentos,3.50,100,Arroz de alta calidad para el día a día
+2,Aceite Vegetal Primor,Primor,Alimentos,8.90,50,Aceite ideal para cocinar
+3,Leche Evaporada Gloria,Gloria,Lácteos,4.20,200,Leche evaporada enriquecida con vitaminas
+4,Detergente Bolívar,Bolívar,Limpieza,12.50,80,Detergente en polvo para ropa
+5,Shampoo Sedal Brillo,Sedal,Higiene,15.00,60,Shampoo para cabello brillante y sedoso
+6,Chocolate Sublime,Nestlé,Dulces,2.50,300,Chocolate con trozos de maní
+7,Papel Higiénico Elite,Elite,Higiene,18.00,40,Paquete de 12 rollos de papel higiénico
+8,Jugo de Naranja Tampico,Tampico,Bebidas,6.00,120,Jugo de naranja natural
+9,Galletas Oreo,Mondelez,Dulces,3.00,150,Galletas rellenas de crema
+10,Atún en Aceite Primor,Primor,Alimentos,7.50,70,Lata de atún en aceite
+11,Cereal Froot Loops,Kellogg's,Alimentos,10.00,90,Cereal de colores con sabor a frutas
+12,Refresco Coca-Cola,Coca-Cola,Bebidas,5.50,200,Refresco gaseoso clásico
+13,Pan de Molde Bimbo,Bimbo,Panadería,4.80,100,Pan de molde suave y fresco
+14,Yogurt Natural Laive,Laive,Lácteos,3.20,150,Yogurt natural sin azúcar añadida
+15,Crema Dental Colgate,Colgate,Higiene,6.50,80,Pasta dental para protección completa
+16,Jabón de Tocador Dove,Dove,Higiene,4.00,70,Jabón hidratante para la piel
+17,Mayonesa Hellmann's,Hellmann's,Alimentos,7.20,60,Mayonesa cremosa y deliciosa
+18,Chicles Trident,Mondelez,Dulces,1.50,300,Chicles sin azúcar con sabor a menta
+19,Agua Mineral San Luis,San Luis,Bebidas,2.00,250,Agua mineral pura y refrescante
+20,Helado de Vainilla D'Onofrio,D'Onofrio,Postres,12.00,50,Helado cremoso con sabor a vainilla
+21,Camiseta Deportiva Nike,Nike,Ropa,25.00,50,Camiseta de algodón para actividades deportivas
+22,Jeans Levi's 501,Levi's,Ropa,45.00,30,Pantalones de mezclilla clásicos
+23,Zapatillas Adidas Running,Adidas,Ropa,60.00,40,Zapatillas deportivas para correr
+24,Chaqueta de Cuero Zara,Zara,Ropa,120.00,20,Chaqueta de cuero genuino
+25,Sombrero de Paja Unisex,Generic,Ropa,15.00,70,Sombrero ideal para el verano
+26,Calcetines de Algodón Puma,Puma,Ropa,10.00,100,Calcetines cómodos y transpirables
+27,Blusa de Seda Mango,Mango,Ropa,35.00,25,Blusa elegante para ocasiones especiales
+28,Pantalones Cortos Quiksilver,Quiksilver,Ropa,20.00,60,Pantalones cortos para la playa
+29,Chaleco de Lana H&M,H&M,Ropa,30.00,40,Chaleco cálido para el invierno
+30,Traje Formal Hugo Boss,Hugo Boss,Ropa,200.00,10,Traje elegante para eventos formales
+31,Guantes de Invierno Columbia,Columbia,Ropa,18.00,50,Guantes térmicos para el frío
+32,Falda Plisada Forever 21,Forever 21,Ropa,25.00,30,Falda moderna y juvenil
+33,Chaqueta Impermeable The North Face,The North Face,Ropa,90.00,15,Chaqueta resistente al agua
+34,Corbata de Seda Armani,Armani,Ropa,50.00,20,Corbata elegante para oficina
+35,Botas de Cuero Timberland,Timberland,Ropa,110.00,25,Botas resistentes para exteriores
+36,Traje de Baño Speedo,Speedo,Ropa,35.00,40,Traje de baño para natación
+37,Suéter de Lana Gap,Gap,Ropa,40.00,30,Suéter cálido y cómodo
+38,Chamarra de Mezclilla Levi's,Levi's,Ropa,70.00,20,Chamarra clásica de mezclilla
+39,Playera Estampada Uniqlo,Uniqlo,Ropa,15.00,50,Playera casual con diseño moderno
+40,Pijama de Algodón Calvin Klein,Calvin Klein,Ropa,50.00,30,Pijama cómoda para dormir
+41,Comida para Perros Pedigree Adulto,Pedigree,Comida para Perros,25.00,100,Alimento balanceado para perros adultos
+42,Comida para Perros Dog Chow Cachorros,Dog Chow,Comida para Perros,30.00,80,Alimento nutritivo para cachorros
+43,Snacks para Perros Beggin' Strips,Beggin',Comida para Perros,10.00,150,Snacks de tocino para perros
+44,Huesos de Juguete para Perros Kong,Kong,Comida para Perros,15.00,120,Huesos de juguete para masticar
+45,Comida Húmeda para Perros Cesar,Cesar,Comida para Perros,20.00,90,Comida húmeda gourmet para perros
+46,Comida para Perros Royal Canin,Royal Canin,Comida para Perros,35.00,70,Alimento premium para perros
+47,Snacks Dentales para Perros Greenies,Greenies,Comida para Perros,12.00,100,Snacks para cuidado dental
+48,Comida para Perros Purina Pro Plan,Purina,Comida para Perros,40.00,60,Alimento especializado para perros
+49,Comida para Perros Eukanuba,Eukanuba,Comida para Perros,38.00,50,Alimento para perros activos
+50,Comida para Perros Hill's Science Diet,Hill's,Comida para Perros,45.00,40,Alimento para perros con necesidades especiales
+51,Snacks para Perros Milk-Bone,Milk-Bone,Comida para Perros,8.00,200,Snacks crujientes para perros
+52,Comida para Perros Nutro,Nutro,Comida para Perros,32.00,70,Alimento natural para perros
+53,Comida para Perros Blue Buffalo,Blue Buffalo,Comida para Perros,36.00,60,Alimento con ingredientes naturales
+54,Comida para Perros Wellness Core,Wellness,Comida para Perros,42.00,50,Alimento rico en proteínas
+55,Comida para Perros Taste of the Wild,Taste of the Wild,Comida para Perros,50.00,40,Alimento inspirado en la dieta ancestral
+56,Comida para Perros Merrick,Merrick,Comida para Perros,48.00,30,Alimento con ingredientes frescos
+57,Comida para Perros Orijen,Orijen,Comida para Perros,55.00,20,Alimento biológicamente apropiado
+58,Comida para Perros Acana,Acana,Comida para Perros,52.00,25,Alimento con ingredientes regionales
+59,Comida para Perros Natural Balance,Natural Balance,Comida para Perros,40.00,35,Alimento para perros con necesidades especiales
+60,Comida para Perros Canidae,Canidae,Comida para Perros,45.00,30,Alimento para perros de todas las edades
+61,Refrigeradora LG Smart Inverter,LG,Electrodomésticos,800.00,10,Refrigeradora con tecnología inverter
+62,Lavadora Samsung EcoBubble,Samsung,Electrodomésticos,600.00,15,Lavadora eficiente con burbujas de aire
+63,Microondas Panasonic Inverter,Panasonic,Electrodomésticos,150.00,20,Microondas con tecnología inverter
+64,Horno Eléctrico Oster,Oster,Electrodomésticos,120.00,25,Horno compacto para hornear
+65,Aspiradora Dyson V11,Dyson,Electrodomésticos,500.00,10,Aspiradora inalámbrica de alta potencia
+66,Plancha de Vapor Philips,Philips,Electrodomésticos,50.00,30,Plancha con tecnología de vapor
+67,Licuadora Ninja Professional,Ninja,Electrodomésticos,100.00,20,Licuadora de alta potencia
+68,Cafetera Nespresso Essenza Mini,Nespresso,Electrodomésticos,150.00,15,Cafetera compacta para espresso
+69,Televisor Sony Bravia 4K,Sony,Electrodomésticos,1000.00,8,Televisor con resolución 4K
+70,Freidora de Aire Cosori,Cosori,Electrodomésticos,120.00,25,Freidora de aire para cocinar sin aceite
+71,Secadora Whirlpool,Whirlpool,Electrodomésticos,550.00,10,Secadora de ropa con gran capacidad
+72,Lavavajillas Bosch Serie 4,Bosch,Electrodomésticos,650.00,12,Lavavajillas eficiente y silencioso
+73,Extractor de Jugos Breville,Breville,Electrodomésticos,200.00,18,Extractor de jugos de alta velocidad
+74,Calefactor DeLonghi,DeLonghi,Electrodomésticos,80.00,20,Calefactor portátil para invierno
+75,Humidificador Honeywell,Honeywell,Electrodomésticos,70.00,25,Humidificador para mejorar la calidad del aire
+76,Robot Aspirador iRobot Roomba,iRobot,Electrodomésticos,400.00,10,Robot aspirador inteligente
+77,Hervidor de Agua Hamilton Beach,Hamilton Beach,Electrodomésticos,40.00,30,Hervidor eléctrico rápido y seguro
+78,Procesador de Alimentos Cuisinart,Cuisinart,Electrodomésticos,180.00,15,Procesador multifuncional para cocina
+79,Plancha para Ropa Rowenta,Rowenta,Electrodomésticos,60.00,20,Plancha de alta precisión
+80,Ventilador de Torre Honeywell,Honeywell,Electrodomésticos,90.00,25,Ventilador silencioso y eficiente
